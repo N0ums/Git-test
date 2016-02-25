@@ -1,1 +1,2 @@
-Des milliées de bars chocolatées ...
+Des milliées de bars chocolatées
+ont été rapellées par le fabricant !
