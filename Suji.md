@@ -1,7 +1,5 @@
 ### Les nombres (Suji) en japonais ###
 
-======================================
-
 1 = Ichi
 2 = Ni
 3 = San
