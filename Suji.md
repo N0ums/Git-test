@@ -1,5 +1,6 @@
 ### Les nombres (Suji) en japonais ###
 
+0 = Rei (Zero)
 1 = Ichi
 2 = Ni
 3 = San
