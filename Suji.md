@@ -1,0 +1,10 @@
+1 = Ichi
+2 = Ni
+3 = San
+4 = Shi
+5 = Go
+6 = Roku
+7 = Shichi
+8 = Hachi
+9 = Ku
+10 = Ju
